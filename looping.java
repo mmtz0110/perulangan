@@ -17,7 +17,7 @@ public class soal1 {
             o = o + p;
             p = p+2;
         }System.out.println(" ");
-        int a =1 , b=0;
+        int a =1 , b=1;
         while (a<=121) {
             System.out.print(a + " ");
             a = a + b;
